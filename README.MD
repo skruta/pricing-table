@@ -1,3 +1,1 @@
-# General
-
-This template is used to generate starter files for website projects.
+This is solution for Kevin Powell's Beyond CSS course.
